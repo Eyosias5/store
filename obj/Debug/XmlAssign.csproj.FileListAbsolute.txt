@@ -1,0 +1,30 @@
+C:\Users\gemme\source\repos\XmlAssign\bin\Debug\XmlAssign.exe.config
+C:\Users\gemme\source\repos\XmlAssign\bin\Debug\XmlAssign.exe
+C:\Users\gemme\source\repos\XmlAssign\bin\Debug\XmlAssign.pdb
+C:\Users\gemme\source\repos\XmlAssign\obj\Debug\XmlAssign.csprojAssemblyReference.cache
+C:\Users\gemme\source\repos\XmlAssign\obj\Debug\MainWindow.g.cs
+C:\Users\gemme\source\repos\XmlAssign\obj\Debug\App.g.cs
+C:\Users\gemme\source\repos\XmlAssign\obj\Debug\XmlAssign_MarkupCompile.cache
+C:\Users\gemme\source\repos\XmlAssign\obj\Debug\XmlAssign_MarkupCompile.lref
+C:\Users\gemme\source\repos\XmlAssign\obj\Debug\MainWindow.baml
+C:\Users\gemme\source\repos\XmlAssign\obj\Debug\XmlAssign.g.resources
+C:\Users\gemme\source\repos\XmlAssign\obj\Debug\XmlAssign.Properties.Resources.resources
+C:\Users\gemme\source\repos\XmlAssign\obj\Debug\XmlAssign.csproj.GenerateResource.cache
+C:\Users\gemme\source\repos\XmlAssign\obj\Debug\XmlAssign.csproj.CoreCompileInputs.cache
+C:\Users\gemme\source\repos\XmlAssign\obj\Debug\XmlAssign.exe
+C:\Users\gemme\source\repos\XmlAssign\obj\Debug\XmlAssign.pdb
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\bin\Debug\XmlAssign.exe.config
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\bin\Debug\XmlAssign.exe
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\bin\Debug\XmlAssign.pdb
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\obj\Debug\XmlAssign.csprojAssemblyReference.cache
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\obj\Debug\MainWindow.g.cs
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\obj\Debug\App.g.cs
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\obj\Debug\XmlAssign_MarkupCompile.cache
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\obj\Debug\XmlAssign_MarkupCompile.lref
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\obj\Debug\MainWindow.baml
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\obj\Debug\XmlAssign.g.resources
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\obj\Debug\XmlAssign.Properties.Resources.resources
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\obj\Debug\XmlAssign.csproj.GenerateResource.cache
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\obj\Debug\XmlAssign.csproj.CoreCompileInputs.cache
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\obj\Debug\XmlAssign.exe
+C:\Users\gemme\OneDrive\Documents\files\4th year\DBA\labs\XmlAssign\obj\Debug\XmlAssign.pdb

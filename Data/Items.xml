@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <item>
+    <title>Gucci Jacket</title>
+    <category>Jacket</category>
+    <price>99$</price>
+  </item>
+  <item>
+    <title>Gucci Shirt</title>
+    <category>Shirt</category>
+    <price>49$</price>
+  </item>
+  <item>
+    <title>Gucci shoes</title>
+    <category>shoes</category>
+    <price>29$</price>
+  </item>
+</root>
